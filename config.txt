@@ -1,6 +1,6 @@
 token=NDkxMzA0OTgxNDcxODIxODI0.DoF7Xg.OakhxUbANEsj5GeocOxjk7-tNok
 owner=460813839051784202
-prefix=4
-game=Type 4play
+prefix=44
+game=Type 44play
 stayinchannel=true
 songinstatus=true
